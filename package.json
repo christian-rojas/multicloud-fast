@@ -1,0 +1,11 @@
+{
+  "version": "0.0.2",
+  "name": "multicloud",
+  "main": "src/index.js",
+  "devDependencies": {
+    "bun-types": "^0.0.83"
+  },
+  "dependencies": {
+    "baojs": "^0.1.3"
+  }
+}
